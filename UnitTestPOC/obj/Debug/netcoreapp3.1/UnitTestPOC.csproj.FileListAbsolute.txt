@@ -1,0 +1,10 @@
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\obj\Debug\netcoreapp3.1\UnitTestPOC.AssemblyInfoInputs.cache
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\obj\Debug\netcoreapp3.1\UnitTestPOC.AssemblyInfo.cs
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.exe
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.deps.json
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.runtimeconfig.json
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.runtimeconfig.dev.json
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.dll
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\bin\Debug\netcoreapp3.1\UnitTestPOC.pdb
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\obj\Debug\netcoreapp3.1\UnitTestPOC.dll
+C:\Users\Joost\source\repos\UnitTestPOC\UnitTestPOC\obj\Debug\netcoreapp3.1\UnitTestPOC.pdb
